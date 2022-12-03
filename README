@@ -1,4 +1,11 @@
-Use make to execute project
+@author: abdel aziz abbo
+@description: it's a simple bloom filter develop in C programming, to secure data with only one function of hash that generated any function with random.
+
+1. Make sure to have make install in your editor, it's can easily to execute
+2. if you don't have make prompt command : gcc .* -o executable
+                                          ./executable 
+                                          
+if you have make to execute project
 # make
 # make run
 # make clean
